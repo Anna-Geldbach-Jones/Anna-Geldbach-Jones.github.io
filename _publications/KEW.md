@@ -1,7 +1,7 @@
 ---
 title: "Distance to future climate analogues reveals refugia for agricultural adaptation"
 collection: publications
-category: preprint
+category: manuscripts
 permalink: /publication/KEW
 excerpt: 'Mapping the distance to future analogues provides a measure of adaptation potential, and reveals steep slope agriculture, regions with small field sizes, and ancient centres of crop domestication have more proximal climate analogues. '
 date: 2025-11-03
