@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - <meta name="google-site-verification" content="GaxpUYQ-LQVYAXLm4kfHEzfkLxGbHSJDqUQ-BazUxcQ" />
 ---
 ## :earth_africa: *Harnessing spectral data to understand plants and ecosystems under stress.* :herb:
 
